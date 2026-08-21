@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/krishnaSah96/DSA/tree/master/0011-container-with-most-water) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/krishnaSah96/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/krishnaSah96/DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/krishnaSah96/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -26,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/krishnaSah96/DSA/tree/master/1480-running-sum-of-1d-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/krishnaSah96/DSA/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/krishnaSah96/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
